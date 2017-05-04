@@ -10,7 +10,7 @@ image_url: https://framapic.org/2XSwtpGD6E5W/xIqklyavxeZp.jpg
 
 Comment loger 9 milliards d'êtres Humains sans abimer la planète.
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_aYTFCpgPgQK_p.266912_1439232483158_Banner biome.jpg)
+![](https://framapic.org/zQktKOlI64f2/5GMrYtRmmbST)
 
 ## L'objectif de ce projet:
 
