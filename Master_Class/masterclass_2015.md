@@ -322,7 +322,7 @@ Les **6 principes de la résilience** qui y sont définis sont :
 
 **– Redondance **: les fonctions se chevauchent, et un relais peut ainsi être assuré si certaines échouent. 
 
-Les espèces d’animaux redondantes sont celles qui exercent la même fonction au sein de  l’écosystème. Comme les vautours et les hyènes dont les fonctions de découpage des animaux morts sont une m^me fonction pour deux espèces.
+Les espèces d’animaux redondantes sont celles qui exercent la même fonction au sein de  l’écosystème. Comme les vautours et les hyènes dont les fonctions de découpage des animaux morts sont une même fonction pour deux espèces.
 
  [Wardekker  J. et al. (2010) “Operationalising a resilience approach to adapting an  urban delta to uncertain climate changes”, Technological Forecasting  and Social Change ](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCUQFjAAahUKEwjPh__mgqTHAhULnBoKHYFoDVc&url=http%3A%2F%2Fwww.nusap.net%2Fdownloads%2FWardekker_ea_2010_TFS.pdf&ei=AHzLVc-HI4u4aoHRtbgF&usg=AFQjCNGRoMmtW8czZJZpdkp6wGJyAxuf3A&sig2=8E_77jS8OoCVktoe9cKq7g&bvm=bv.99804247,d.d2s) 
 
