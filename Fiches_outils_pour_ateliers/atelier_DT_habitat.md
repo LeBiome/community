@@ -22,6 +22,6 @@ Réaliser sur le plus de territoire possible des workshop en open source pour co
 
 ## Workshops réalisés et documentés
 
-*   [Rennes Workshop 2](/workshop-comment-loger-9-milliards-dtres-humains-sans-abimer-la-plante-2-7YOnQ10YsxW) 
-*   [Rennes Workshop 3](/workshop-comment-loger-9-milliards-dtres-humains-sans-abimer-la-plante-3-8yqNq6QHhwx) 
-*   [BretagneLabTour Atelier de design thinking biomimtisme sur lhabitat - Pontivy avec les lycéens](/a5Jy2aHZ0Ev)
+*   [Rennes Workshop 2](https://paper.dropbox.com/doc/Workshop-biomimicry-Rennes-010415-tNr1AEEQeJvqx1unqbX4J) 
+*   [Rennes Workshop 3](https://paper.dropbox.com/doc/workshop-comment-loger-9-milliards-dtres-humains-sans-abimer-la-plante-3-85zjDR4yhmrlX8gvz6R84) 
+*   [BretagneLabTour Atelier de design thinking biomimtisme sur lhabitat - Pontivy avec les lycéens](https://paper.dropbox.com/doc/BretagneLabTour-Atelier-de-design-thinking-biomimtisme-sur-lhabitat-YszhsbWKLsDjnVX7vara7)
