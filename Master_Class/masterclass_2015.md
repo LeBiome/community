@@ -130,7 +130,7 @@ Le biomimétisme se présente à nous, sans être une religion dogmatique avec s
 
 Et pareil à l'innovation dans la nature, nos innovations de biomimétisme les plus performantes sont souvent les plus belles et les plus simples. Comme l'arbre à vent.
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_HLDA7UM6N48_p.266912_1439314746555_arbre-a-vent-ville.png)
+![](https://framapic.org/yOHkmGnmvVqT/Q5pmxZwyw31b)
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_HLDA7UM6N48_p.266912_1439314819700_images.jpg)
 
@@ -142,7 +142,9 @@ Produire de l'énergie propre en imitant les arbres de manière locale, autonome
 
 **"On ne résout pas un problème avec les modes de pensées qui l'on**t engendré » Albert  EINSTEIN
 
-Les problèmes, il semble que nous ayons une incroyable capacité à les générer. A un point tel que nous sommes aujourd'hui face à des crises sans précédent dans l'histoire de l'humanité: La raréfaction des ressources, les changements climatiques, la destruction de la biodiversité, l’accélération technologique, les transformations sociales... Tous autant de défis à relever ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_HLDA7UM6N48_p.266912_1441988876914_Gilles boeuf à Océanopolis.jpg)
+Les problèmes, il semble que nous ayons une incroyable capacité à les générer. A un point tel que nous sommes aujourd'hui face à des crises sans précédent dans l'histoire de l'humanité: La raréfaction des ressources, les changements climatiques, la destruction de la biodiversité, l’accélération technologique, les transformations sociales... Tous autant de défis à relever
+
+![](https://framapic.org/jOjUxy5WARLh/ZTbJLevyEbEU "Giiles Bouef à Océnopolis")
 
 Depuis la fin du 18ème siècle et la 1ère révolution industrielle, notre pensée semble avoir été guidée par la conception de ressources infinies dans un espace fini. Étrange conception...
 
@@ -153,8 +155,7 @@ La destruction industrialisée de notre capital naturel est le symptôme de notr
 Nous avons depuis longtemps cessé de nous émerveiller de la simple beauté de l'ingéniosité qui nous entoure.
 
 [“Le toucher est le plus démystificateur de tous les sens, à la différence de la vue, qui est le plus magique. ”](https://n) 
-
-         De [Roland Barthes](http://evene.lefigaro.fr/celebre/biographie/roland-barthes-597.php)                    / Mythologies            
+De [Roland Barthes](http://evene.lefigaro.fr/celebre/biographie/roland-barthes-597.php) / Mythologies            
 
 Pour résoudre un problème il nous faut briser les codes, déconstruire les mécanismes qui ont généré ces problèmes, repenser les flux, reconstruire des nouveaux imaginaires. Il nous faut hybrider pour tenter de reproduire ces mécanismes d'innovations frugaux qui sont à l’œuvre depuis plus de 3,8 milliards d'années.
 
@@ -228,7 +229,7 @@ Dans l’océan indien, le bruit résonna sur une zone 4,500  kilomètres de dia
 
 Trois îles, dont les restes de l’île hôte du Krakatoa, furent totalement  recouvertes de lave. On n’y décela plus la moindre trace de vie, pas même un brin d’herbe. Neuf mois plus tard, une expédition française découvrit un seul et unique signe de vie: une araignée qui avait atteint  l’île sur un ballon de soie. 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_HLDA7UM6N48_p.266912_1439382509776_Arcocon2.jpg)
+![](https://framapic.org/n4yMnFXLSxjC/wGxfderBlsm8)
 
 Cette araignée annonçait l’avenir. Cent ans plus tard, les trois îles  mortes étaient recouvertes d’une forêt tropicale et abritaient 400 espèces de plantes, des milliers d’espèces d’arthropodes dont 54 espèces de papillons, 30 espèces d’oiseaux, 17 espèces de chauves souris et 9 de reptiles. Et tous ces êtres vivants durent franchir une barrière de 44  kilomètres d’eau de mer pour atteindre leur destination. Sur quels  radeaux improvisés par la nature certains d’entre eux ont-ils dû voyager?
 
@@ -252,7 +253,7 @@ Je ne sais pas pour vous, mais j'ai comme l'impression que nous sommes devant de
 
 Heureusement que le génie du vivant nous apporte de l'optimisme en abondance dans ses innovations.
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_HLDA7UM6N48_p.266912_1439396526457_baobab.jpg)
+![](https://framapic.org/OaBWCP3oPZyN/M00gwUcLCTIC)
 
 Sortir des produits pétro-sourcé n'est pas un plan du futur mais une réalité actuelle. C'est ce que nous faisons avec le Biome en travaillant à produire du latex pour gant d'examen, préservatif, pneu... à base de sève de pissenlit. 
 
