@@ -1,3 +1,10 @@
+---
+title: Cours de biomimétsime
+descritpion: Pour les éèves ingénieurs de l'école des métiers de l'environnement à Rennes Mai 2016
+image_url: https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494423973288_file.jpeg
+---
+
+
 # Journée biomimétisme EME Rennes
 
  Cours aux élèves ingénieurs de l'Ecole des Métiers de l'Environnement en cursus Mastère économie ciruclaire / écoconception                                     
