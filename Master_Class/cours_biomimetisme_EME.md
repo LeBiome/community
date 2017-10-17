@@ -1,6 +1,6 @@
 ---
 title: Cours de biomimétsime
-description: Pour les élèves ingénieurs de l'école des métiers de l'environnement à Rennes Mai 2016
+description: Pour les élèves ingénieurs de l'école des métiers de l'environnement à Rennes Mai 2017
 image_url: https://framapic.org/ZenQNeiTlzLw/FGIimV87p8bi.jpg
 ---
 
