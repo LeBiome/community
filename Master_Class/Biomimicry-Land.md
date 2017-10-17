@@ -1,3 +1,9 @@
+---
+title: Master class de Biomimétisme
+description: À L' Université des Technologies de Compiègne
+image_url: https://framapic.org/6qawosSKqed2/4vF12NncsWLd.jpg
+---
+
 # Biomimicry Land
 
 ![Bannière de l’événement facebook](https://d2mxuefqeaa7sj.cloudfront.net/s_3785959309B088B7EF277DA3AD76476674A5255E4DAE83DE1516227CD87CD171_1494066253779_file.jpeg)
