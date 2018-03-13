@@ -273,7 +273,7 @@ Isolant électrique sans doute au vu de ses similarités avec le bois.
 
 Les écailles produites par les glandes cirières antérieures ont une taille d'environ 3,3 mm; celles produites par les glandes cirières les plus postérieures mesurent environ 1,2 mm. Leur épaisseur est d'environ 0,10 mm. Chaque écaille pèse 0,8 mg. Il faudra 1250 écailles de cire pour obtenir 1 gramme de cire. [SOURCE](http://www.catoire-fantasque.be/animaux/abeille/cire/#production)
 
-| **omposition typique de la cire**                                  | Pourcentage |
+| **Composition typique de la cire**                                  | Pourcentage |
 | ------------------------------------------------------------------ | ----------- |
 | [**hydrocarbures**](https://fr.wikipedia.org/wiki/Hydrocarbure)    | 14 %        |
 | [**monoesters**](https://fr.wikipedia.org/wiki/Ester)              | 35 %        |
@@ -487,11 +487,7 @@ frama pad
 
 
 
-----------
-
-
-# **R****essource****s** **de travail**
-
+# Ressources de Travail
 
 - Ant algorithm : 
   - [Ant colony optimization (aco) in matlab](http://freesourcecode.net/matlabprojects/57496/ant-colony-optimization-%28aco%29-in-matlab) 
